@@ -1,4 +1,4 @@
-# Use a imagem NFS Server Alpine
+# Use uma imagem NFS Server Alpine
 FROM itsthenetwork/nfs-server-alpine:latest
 
 # Crie um diretório para compartilhar

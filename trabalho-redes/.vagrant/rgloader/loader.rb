@@ -1,5 +1,4 @@
-# This file loads the proper rgloader/loader.rb file that comes packaged
-# with Vagrant so that encoded files can properly run with Vagrant.
+# este arquivo carrega o arquivo rgloader/loader.rb adequado que vem com o Vagrant para que os arquivos codificados possam ser executados corretamente com o Vagrant
 
 if ENV["VAGRANT_INSTALLER_EMBEDDED_DIR"]
   require File.expand_path(
